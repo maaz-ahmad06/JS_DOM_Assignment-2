@@ -19,3 +19,9 @@
 // listItems.forEach((item, index) => {
 //     item.style.color = "green";
 // })
+
+// Task 6
+const para = document.querySelector(".para");
+para.style.fontSize = "20px";
+para.style.color = "white";
+para.style.backgroundColor = "black";
