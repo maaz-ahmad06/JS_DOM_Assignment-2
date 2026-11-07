@@ -5,3 +5,7 @@
 // Task 2
 // const para = document.getElementsByTagName("p");
 // para[0].textContent = "First paragraph updated";
+
+// Task 3
+// const btn = document.getElementsByClassName("btn");
+// btn[1].textContent = "Click Me";
