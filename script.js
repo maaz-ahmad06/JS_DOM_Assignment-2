@@ -9,3 +9,7 @@
 // Task 3
 // const btn = document.getElementsByClassName("btn");
 // btn[1].textContent = "Click Me";
+
+// Task 4
+// const heading = document.querySelector("h1");
+// heading.style.color = "blue";
